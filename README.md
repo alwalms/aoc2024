@@ -1,3 +1,3 @@
-# Advent of Code 2024 - Clojure
+# Advent of Code 2024
 
 🎄🎄🎄
